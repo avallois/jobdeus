@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505794596097",
+    "firebase_url": "https://job-deus-app.firebaseio.com",
+    "project_id": "job-deus-app",
+    "storage_bucket": "job-deus-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505794596097:android:96c2fb0994684454135f00",
+        "android_client_info": {
+          "package_name": "com.example.job_deus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505794596097-89une9jpd49p6hot6mujc3bop8kuh827.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wbsr37X5yhgTTjGvX-sMiQpa8qHlEig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505794596097-89une9jpd49p6hot6mujc3bop8kuh827.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
